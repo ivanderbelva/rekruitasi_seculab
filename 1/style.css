@@ -1,0 +1,24 @@
+body {
+    background-color: #ffffff; /* default background color */
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    /*part_2:s1MPl3_W3b_1*/
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+  }
+  
